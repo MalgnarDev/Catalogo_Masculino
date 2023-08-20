@@ -255,7 +255,7 @@ body{
 
     img{
         border-radius: 10px;
-        width: 18vw;
+        width: 15vw;
         margin: 15px;
     }
     a{
@@ -264,6 +264,7 @@ body{
     }
 
     .marca{
+        width: 90vw;
         text-align: center;
     }
     .marca>h1{
@@ -276,6 +277,7 @@ body{
         box-shadow: 5px 5px 15px rgba(207, 123, 114, 0.3);
     }
     .marca>p{
+        width: 90vw;
         padding: 3px;
         font-size: 20px;
         color: var(--cor01);
