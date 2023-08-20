@@ -277,7 +277,7 @@ body{
         box-shadow: 5px 5px 15px rgba(207, 123, 114, 0.3);
     }
     .marca>p{
-        width: 85vw;
+        width: 90vw;
         padding: 3px;
         font-size: 20px;
         color: var(--cor01);
